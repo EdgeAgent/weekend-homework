@@ -17,7 +17,7 @@
 
 ## The idea
 
-A viral reel listed five Claude Code projects that teach you more than a certification:
+Five Claude Code projects that teach you more than a certification:
 
 1. a personal dashboard,
 2. a searchable second brain,
@@ -25,9 +25,8 @@ A viral reel listed five Claude Code projects that teach you more than a certifi
 4. a brand-kit generator, and
 5. a life library.
 
-This repository turns that list into an open build-along. Each project has a practical guide, a starter `CLAUDE.md`, a build checklist, and a definition of done. Build one, build all five, then submit your version to the community showcase.
+This repository turns them into an open build-along. Each project has a practical guide, a starter `CLAUDE.md`, a build checklist, and a definition of done. Build one, build all five, then submit your version to the community showcase.
 
-> Inspired by the project list in Ikram Rana's reel. This is an independent community project and is not affiliated with or endorsed by the creator.
 
 ## Start here
 

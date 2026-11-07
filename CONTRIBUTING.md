@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping turn a reel into something people can actually build.
+Thanks for helping people actually build these five projects.
 
 ## Submit a finished build
 
