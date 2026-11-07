@@ -1,0 +1,24 @@
+name: Guide improvement
+description: Suggest a clearer step, correction or alternative approach
+title: "[Guide]: "
+labels: [documentation]
+body:
+  - type: input
+    id: guide
+    attributes:
+      label: Guide and section
+      placeholder: "02 Second Brain — Build order, Step 4"
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What should change?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What did you test or observe?
+    validations:
+      required: false

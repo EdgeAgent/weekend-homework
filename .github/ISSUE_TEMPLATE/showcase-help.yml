@@ -1,0 +1,37 @@
+name: Build help
+description: Ask for help on a Weekend Homework project
+title: "[Build help]: "
+labels: [help wanted]
+body:
+  - type: dropdown
+    id: project
+    attributes:
+      label: Project
+      options:
+        - 01 — Personal Dashboard
+        - 02 — Second Brain
+        - 03 — Daily Review Agent
+        - 04 — Brand Kit Generator
+        - 05 — Life Library
+    validations:
+      required: true
+  - type: input
+    id: step
+    attributes:
+      label: Guide step
+      placeholder: "Example: Step 3"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Remove API keys, private documents and personal data before posting.
+    validations:
+      required: true
